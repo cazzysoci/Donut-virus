@@ -1,6 +1,7 @@
-```Beware running this bruh
+``` Beware running this bruh 
+```
 
-
+```
 1. Compile and Run the sever.c file in linux i.e Kali Linux 
 	use the code given below to compile:
 
@@ -11,3 +12,5 @@
 	use the code given below to compile:
 	i686-w64-mingw32-gcc -o donut.exe donut.c -lwsock32 -lwininet
 By using this code it would create a exe file that runs on target's windows machine
+
+```
